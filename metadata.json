@@ -1,0 +1,6 @@
+{
+  "name": "Kearny Legion",
+  "description": "Website for Kearny Legion, American Legion Post, serving veterans, military members, families, and the community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
